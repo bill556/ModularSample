@@ -1,0 +1,5 @@
+rootProject.name = "ModularSample"
+include ':app'
+include ':module_article'
+include ':lib_common'
+include ':module_user'
